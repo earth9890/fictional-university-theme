@@ -1,0 +1,10 @@
+node_modules/
+uploads
+upgrade
+upgrade-temp-backup
+.DS_Store
+/index.php
+
+/themes/index.php
+/plugins/index.php
+ai1wm-backups
